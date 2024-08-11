@@ -1,0 +1,1 @@
+FROM selectdb/alpine:latest
