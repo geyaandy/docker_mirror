@@ -1,0 +1,1 @@
+FROM bitnami/etcd:3.5.16-debian-12-r2
