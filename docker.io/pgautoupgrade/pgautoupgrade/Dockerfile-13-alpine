@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 pgautoupgrade/pgautoupgrade:13-alpine
