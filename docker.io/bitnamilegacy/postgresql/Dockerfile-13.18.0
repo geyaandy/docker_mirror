@@ -1,0 +1,1 @@
+FROM bitnamilegacy/postgresql:13.18.0
