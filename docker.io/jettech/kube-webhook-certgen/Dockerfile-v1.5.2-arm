@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 jettech/kube-webhook-certgen:v1.5.2
