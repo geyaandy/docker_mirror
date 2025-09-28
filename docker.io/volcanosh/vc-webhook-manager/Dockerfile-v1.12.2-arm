@@ -1,0 +1,1 @@
+FROM --platform=linux/arm64 volcanosh/vc-webhook-manager:v1.12.2
