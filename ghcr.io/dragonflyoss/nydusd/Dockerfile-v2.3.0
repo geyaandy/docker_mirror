@@ -1,1 +1,1 @@
-
+FROM ghcr.io/dragonflyoss/nydusd:v2.3.0
