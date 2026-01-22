@@ -1,1 +1,0 @@
-FROM ghcr.io/containerd/nydus-snapshotter:v0.15.0
