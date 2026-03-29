@@ -1,0 +1,1 @@
+FROM ghcr.io/yuan-lab-llm/clawmanager:latest
